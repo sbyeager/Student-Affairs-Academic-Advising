@@ -1,2 +1,2 @@
 # Student-Affairs-Academic-Advising
-Interactive Academic Advising Platofrm for Dedman Law students 
+Interactive academic advising platofrm for SMU Dedman Law students 
